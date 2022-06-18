@@ -1,0 +1,16 @@
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.exe
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.deps.json
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.runtimeconfig.json
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.runtimeconfig.dev.json
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.dll
+C:\Users\18hoa\source\repos\testlinq\testlinq\bin\Debug\net5.0\testlinq.pdb
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.csproj.AssemblyReference.cache
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.AssemblyInfoInputs.cache
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.AssemblyInfo.cs
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.csproj.CoreCompileInputs.cache
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.dll
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\refint\testlinq.dll
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.pdb
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\testlinq.genruntimeconfig.cache
+C:\Users\18hoa\source\repos\testlinq\testlinq\obj\Debug\net5.0\ref\testlinq.dll
