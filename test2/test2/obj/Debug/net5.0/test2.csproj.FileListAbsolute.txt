@@ -1,0 +1,16 @@
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.exe
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.deps.json
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.runtimeconfig.json
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.runtimeconfig.dev.json
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.dll
+F:\thuctap\test2\test2\bin\Debug\net5.0\test2.pdb
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.csproj.AssemblyReference.cache
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.AssemblyInfoInputs.cache
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.AssemblyInfo.cs
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.csproj.CoreCompileInputs.cache
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.dll
+F:\thuctap\test2\test2\obj\Debug\net5.0\refint\test2.dll
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.pdb
+F:\thuctap\test2\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache
+F:\thuctap\test2\test2\obj\Debug\net5.0\ref\test2.dll
