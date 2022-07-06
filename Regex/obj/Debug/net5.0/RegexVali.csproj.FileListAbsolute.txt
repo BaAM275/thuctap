@@ -1,0 +1,16 @@
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.exe
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.deps.json
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.runtimeconfig.json
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.runtimeconfig.dev.json
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.dll
+F:\thuctap\Regex\Regex\bin\Debug\net5.0\RegexVali.pdb
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.csproj.AssemblyReference.cache
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.GeneratedMSBuildEditorConfig.editorconfig
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.AssemblyInfoInputs.cache
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.AssemblyInfo.cs
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.csproj.CoreCompileInputs.cache
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.dll
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\refint\RegexVali.dll
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.pdb
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\RegexVali.genruntimeconfig.cache
+F:\thuctap\Regex\Regex\obj\Debug\net5.0\ref\RegexVali.dll
