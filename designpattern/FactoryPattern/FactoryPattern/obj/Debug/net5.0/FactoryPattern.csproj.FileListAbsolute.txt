@@ -1,0 +1,16 @@
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\refint\FactoryPattern.dll
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\18hoa\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
