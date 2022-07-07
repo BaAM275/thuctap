@@ -1,0 +1,16 @@
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.exe
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.deps.json
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.runtimeconfig.json
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.runtimeconfig.dev.json
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.dll
+F:\thuctap\net1\net1\bin\Debug\net5.0\net1.pdb
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.csproj.AssemblyReference.cache
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.GeneratedMSBuildEditorConfig.editorconfig
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.AssemblyInfoInputs.cache
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.AssemblyInfo.cs
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.csproj.CoreCompileInputs.cache
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.dll
+F:\thuctap\net1\net1\obj\Debug\net5.0\refint\net1.dll
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.pdb
+F:\thuctap\net1\net1\obj\Debug\net5.0\net1.genruntimeconfig.cache
+F:\thuctap\net1\net1\obj\Debug\net5.0\ref\net1.dll
